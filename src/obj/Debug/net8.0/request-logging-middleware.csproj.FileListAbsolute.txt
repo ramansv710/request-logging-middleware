@@ -1,0 +1,14 @@
+C:\Users\rsv\Documents\GitHub\request-logging-middleware\src\bin\Debug\net8.0\request-logging-middleware.exe
+C:\Users\rsv\Documents\GitHub\request-logging-middleware\src\bin\Debug\net8.0\request-logging-middleware.deps.json
+C:\Users\rsv\Documents\GitHub\request-logging-middleware\src\bin\Debug\net8.0\request-logging-middleware.runtimeconfig.json
+C:\Users\rsv\Documents\GitHub\request-logging-middleware\src\bin\Debug\net8.0\request-logging-middleware.dll
+C:\Users\rsv\Documents\GitHub\request-logging-middleware\src\bin\Debug\net8.0\request-logging-middleware.pdb
+C:\Users\rsv\Documents\GitHub\request-logging-middleware\src\obj\Debug\net8.0\request-logging-middleware.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rsv\Documents\GitHub\request-logging-middleware\src\obj\Debug\net8.0\request-logging-middleware.AssemblyInfoInputs.cache
+C:\Users\rsv\Documents\GitHub\request-logging-middleware\src\obj\Debug\net8.0\request-logging-middleware.AssemblyInfo.cs
+C:\Users\rsv\Documents\GitHub\request-logging-middleware\src\obj\Debug\net8.0\request-logging-middleware.csproj.CoreCompileInputs.cache
+C:\Users\rsv\Documents\GitHub\request-logging-middleware\src\obj\Debug\net8.0\request-logging-middleware.dll
+C:\Users\rsv\Documents\GitHub\request-logging-middleware\src\obj\Debug\net8.0\refint\request-logging-middleware.dll
+C:\Users\rsv\Documents\GitHub\request-logging-middleware\src\obj\Debug\net8.0\request-logging-middleware.pdb
+C:\Users\rsv\Documents\GitHub\request-logging-middleware\src\obj\Debug\net8.0\request-logging-middleware.genruntimeconfig.cache
+C:\Users\rsv\Documents\GitHub\request-logging-middleware\src\obj\Debug\net8.0\ref\request-logging-middleware.dll
